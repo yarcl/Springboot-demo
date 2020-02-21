@@ -29,6 +29,7 @@ import java.util.concurrent.ExecutionException;
 @Component
 public class EsDaoImpl implements EsDao {
 
+    //测试2
     @Autowired
     private EsClient esClient;
 
